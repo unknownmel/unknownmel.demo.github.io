@@ -1,0 +1,15 @@
+
+    h1 { color:blue ;}
+    p {color:blue ;}
+    h2 {color:blue ;}
+    li {color: blue ;}
+    body{  
+        background-color: black;
+    }
+
+    #content{ 
+        color:red;
+        width:800px;
+        margin-left: auto;
+        margin-right: auto;
+    }
